@@ -23,8 +23,8 @@
 //        exit = new JButton("Exit"); //5.配置裡的物件具體化出來
 //        editor = new JTextArea(); //8. 配置裡的物件具體化出來
 //
-//        newFile.addActionListener(new MyListener()); //9. 92
-//        newFile.addActionListener(this); //10.
+////        newFile.addActionListener(new MyListener()); //9. 92
+////        newFile.addActionListener(this); //10.
 //        newFile.addActionListener(new ActionListener() { //11
 //            @Override
 //            public void actionPerformed(ActionEvent e) {
